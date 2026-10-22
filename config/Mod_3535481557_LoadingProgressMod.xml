@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ilyvion.LoadingProgress.Settings">
+		<lastLoadingModHash>1558704988</lastLoadingModHash>
+		<loadingTimes>
+			<li>53.5939674</li>
+		</loadingTimes>
+		<loadingTimesMeasuredToMenu>True</loadingTimesMeasuredToMenu>
+	</ModSettings>
+</SettingsBlock>

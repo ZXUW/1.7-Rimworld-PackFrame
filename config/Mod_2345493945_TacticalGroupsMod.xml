@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<MarginTop>44.943821</MarginTop>
+		<ColonistBarPositionX>-400</ColonistBarPositionX>
+		<ColonistBarSpacingY>51.4606743</ColonistBarSpacingY>
+		<PawnBoxHeight>79.94944</PawnBoxHeight>
+		<PawnBoxWidth>64.6629181</PawnBoxWidth>
+		<PawnCameraOffsetZ>0.168539286</PawnCameraOffsetZ>
+		<PawnScale>1.66910124</PawnScale>
+		<PawnRowCount>3</PawnRowCount>
+		<AllGroupPresetsSaveable IsNull="True" />
+	</ModSettings>
+</SettingsBlock>
