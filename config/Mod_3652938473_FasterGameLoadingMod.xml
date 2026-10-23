@@ -23,6 +23,7 @@
 				<li>Verb_Smokepop</li>
 				<li>PatchOPerationSequence|ns|Verse</li>
 				<li>DubsBadHygiene.WorkGiver_cleanBedpan</li>
+				<li>PlaceWorker_AttachedToWall</li>
 				<li>AncientMarketAI_Libraray.JobDriver_OpenLootBox</li>
 				<li>ThoughtDeF</li>
 				<li>thingDef</li>
@@ -45,13 +46,14 @@
 				<li>RimWorld.Verb_SmokePop</li>
 				<li>Verse.PatchOperationSequence</li>
 				<li>DubsBadHygiene.WorkGiver_CleanBedpan</li>
+				<li>RimWorld.Placeworker_AttachedToWall</li>
 				<li>AncientMarketAI_Libraray.JobDriver_OpenLootbox</li>
 				<li>RimWorld.ThoughtDef</li>
 				<li>Verse.ThingDef</li>
 				<li>ASEL.ASELModExtension</li>
 			</values>
 		</loadedTypesByFullNameSinceLastSession>
-		<typeCacheAssemblyFingerprint>9db31f2a921f2f2d36e5329b08b9af30c0615cfcb0d75e446bd65c79f5311c18</typeCacheAssemblyFingerprint>
+		<typeCacheAssemblyFingerprint>4cc4cc36410b827a60862fb3f41c9dc38592c751986834ecffc99d5847b11892</typeCacheAssemblyFingerprint>
 		<modsInLastSession>
 			<li>brrainz.harmony</li>
 			<li>ilyvion.loadingprogress</li>
@@ -254,7 +256,6 @@
 			<li>aota.moelotl.gills.tail.animation</li>
 			<li>edha.vivirace.zh</li>
 			<li>rimmod.monolyn.relationshipsnapshot17</li>
-			<li>chezhou.framework.rimsimmanagementframework</li>
 			<li>epona.eponadynasticrise</li>
 			<li>epona.eponadynasticrisefacial</li>
 			<li>peppsen.pmusic</li>
@@ -272,6 +273,22 @@
 			<li>yukishiro.venarium.fa</li>
 			<li>s16.sbto</li>
 			<li>lordfelix.hathaircontrol</li>
+			<li>ancot.ancotlibrary</li>
+			<li>ancot.kiirorace</li>
+			<li>ancot.kiirofacialanimation</li>
+			<li>ancot.kiiroracegenepatch</li>
+			<li>ancot.kiirostoryeventsexpanded</li>
+			<li>zuoyao.kiiroorangecat</li>
+			<li>zuoyao.kiiromainecoon</li>
+			<li>zuoyao.kiirosiamese</li>
+			<li>zuoyao.kiiroragdoll</li>
+			<li>rh.kiiroraceretexture</li>
+			<li>fghj.kiirobodypartanimation</li>
+			<li>melondove.wolfeinrace</li>
+			<li>fghj.wolfeinbodypartanimation</li>
+			<li>melondove.wolfeinrace.fa</li>
+			<li>ancot.wolfeinracegenepatch</li>
+			<li>chezhou.framework.rimsimmanagementframework</li>
 			<li>zx.multiracetweak</li>
 		</modsInLastSession>
 		<historicalBakeSpeeds />

@@ -1,5 +1,3 @@
-![cover](images/cover.jpg)
-
 # 多种族 [1.7]
 
 PackFrame GitHub modpack repository.
