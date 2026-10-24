@@ -18,12 +18,12 @@
   <plantWindSway>True</plantWindSway>
   <screenShakeIntensity>1</screenShakeIntensity>
   <textureCompression>True</textureCompression>
-  <showRealtimeClock>False</showRealtimeClock>
+  <showRealtimeClock>True</showRealtimeClock>
   <disableTinyText>True</disableTinyText>
   <animalNameMode>None</animalNameMode>
   <mechNameMode>WhileDrafted</mechNameMode>
-  <backgroundExpansionId IsNull="True" />
-  <randomBackground>True</randomBackground>
+  <backgroundExpansionId>ludeon.rimworld</backgroundExpansionId>
+  <randomBackground>False</randomBackground>
   <showWeaponsUnderPortraitMode>WhileDrafted</showWeaponsUnderPortraitMode>
   <dotHighlightDisplayMode>HighlightAll</dotHighlightDisplayMode>
   <highlightStyleMode>Silhouettes</highlightStyleMode>

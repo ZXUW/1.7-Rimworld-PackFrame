@@ -10,8 +10,14 @@
 			<allowed />
 		</storageBuildingFilter>
 		<routePrefsByDef>
-			<keys />
-			<values />
+			<keys>
+				<li>Blueprint_Bed</li>
+				<li>Frame_ASF_VeryBigShelf</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+			</values>
 		</routePrefsByDef>
 		<rememberedRoutesByDef>
 			<keys />

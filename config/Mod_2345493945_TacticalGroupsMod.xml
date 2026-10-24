@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayWeapons>True</DisplayWeapons>
+		<WeaponPlacementOffset>-4</WeaponPlacementOffset>
 		<MarginTop>44.943821</MarginTop>
 		<ColonistBarPositionX>-400</ColonistBarPositionX>
 		<ColonistBarSpacingY>51.4606743</ColonistBarSpacingY>
@@ -8,6 +10,7 @@
 		<PawnBoxWidth>64.6629181</PawnBoxWidth>
 		<PawnCameraOffsetZ>0.168539286</PawnCameraOffsetZ>
 		<PawnScale>1.66910124</PawnScale>
+		<WeaponShowScale>0.953370869</WeaponShowScale>
 		<PawnRowCount>3</PawnRowCount>
 		<AllGroupPresetsSaveable IsNull="True" />
 	</ModSettings>
