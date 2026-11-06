@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
+		<DrawBrowsAboveHat>False</DrawBrowsAboveHat>
 		<EnableFacialAnimationMainTab>False</EnableFacialAnimationMainTab>
 		<IgnoreEnableAnimationForRaceXenoTypeListAA />
 	</ModSettings>
